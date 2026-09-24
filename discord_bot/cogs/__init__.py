@@ -1,0 +1,1 @@
+"""Cogs que agrupam os slash commands por domínio."""
